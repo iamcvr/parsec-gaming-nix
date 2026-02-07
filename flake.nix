@@ -1,6 +1,6 @@
 {
 	inputs = {
-		nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
+		nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
 		parsecDeb = {
 			url = "https://builds.parsecgaming.com/package/parsec-linux.deb";
 			flake = false;
